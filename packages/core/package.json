@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "css-tree": "^1.0.0-alpha.39",
-    "@nativescript/hook": "~2.0.0",
+    "@nativescript/hook": "~3.0.0",
     "reduce-css-calc": "^2.1.7",
     "tslib": "~2.0.0"
   },
